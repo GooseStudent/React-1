@@ -18,11 +18,11 @@ function App() {
       
       <div className="content-wrapper">
         <div className="card-image">
-          <img src="/1.png" alt="Product" />
+          <img src="/React-1/1.png" alt="Product" />
         </div>
         
         <div className="card-text">
-          <div className="card-border">      
+          <div className="card-border">
             <ShopItemClass item={item} />
           </div>
         </div>
